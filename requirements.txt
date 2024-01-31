@@ -5,5 +5,5 @@ selenium==4.0.0
 tldextract==3.1.2
 matplotlib==3.5.0
 BeautifulSoup4==4.7.1
-requests[socks]==2.26.0
+requests==2.31.0
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
