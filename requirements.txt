@@ -7,3 +7,4 @@ matplotlib==3.5.0
 BeautifulSoup4==4.7.1
 requests[socks]==2.26.0
 setuptools>=65.5.1 # not directly required, pinned by Snyk to avoid a vulnerability
+pillow>=10.2.0 # not directly required, pinned by Snyk to avoid a vulnerability
